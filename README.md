@@ -10,15 +10,15 @@ All the images of the application running are stored in the 'images' folder, her
 
 #### Small screen:
 
-![small screen](images/single server.png)
+![small screen](images/singleServer.png)
 
 #### Big screen:
 
-![big screen](images/big window.png)
+![big screen](images/bigWindow.png)
 
 #### Dark mode:
 
-![dark mode](images/dark mode.png)
+![dark mode](images/darkMode.png)
 
 ## Running the app
 

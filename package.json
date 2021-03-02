@@ -1,13 +1,14 @@
 {
   "name": "server-status-checker",
   "version": "0.0.1",
-  "description": "An application to view the status of multiple servers (primarily minecraft servers) from an easy to manage dashboard.",
-  "productName": "Server Status Checker",
+  "description": "An application to view the status of multiple minecraft servers from an easy to manage dashboard.",
+  "productName": "MC Server Status Checker",
   "author": "iceCream_Taco",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",
-    "test": "echo \"No test specified\" && exit 0"
+    "test": "echo \"No test specified\" && exit 0",
+    "build": "quasar build -m electron -T all"
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
